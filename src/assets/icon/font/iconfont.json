@@ -1,0 +1,16 @@
+{
+  "id": "3252485",
+  "name": "vant-custom-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "vant图标扩展，可以使用更富ode图标",
+  "glyphs": [
+    {
+      "icon_id": "27402290",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "ee15",
+      "unicode_decimal": 60949
+    }
+  ]
+}
